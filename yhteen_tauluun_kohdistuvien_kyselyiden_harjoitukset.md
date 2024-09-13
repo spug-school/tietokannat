@@ -1,7 +1,7 @@
 
 
 ### Tehtävä 1: Tee kysely, joka tulostaa kaikki sarakkeet goal-talusta.
-
+file:///home/tuukka/metropolia/ohjelmisto1/tietokannat/tietokannat/kysymys_1.png
 SELECT * FROM goal;
 
 ### Tehtävä 2: Tee kysely, joka tulostaa nimen ja tyypin kaikista Suomessa sijaitsevista lentokentistä. Suomen maatunnus on: FI
