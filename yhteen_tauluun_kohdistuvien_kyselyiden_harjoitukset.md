@@ -1,7 +1,7 @@
 
 
 ### Tehtävä 1: Tee kysely, joka tulostaa kaikki sarakkeet goal-talusta.
-![Alt text]([https://drive.google.com/file/d/12_AJ-Fw71dwKgq77es2eL7uXemM6SLxS/view?usp=drive_link](https://drive.google.com/file/d/12_AJ-Fw71dwKgq77es2eL7uXemM6SLxS/view?usp=sharing))
+![Alt text](https://i.imgur.com/iC4WjaW.png)
 
 SELECT * FROM goal;
 
